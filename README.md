@@ -1,5 +1,5 @@
-**Tata Groups DataVisualisation Job Simlation
-**
+Tata Groups DataVisualisation Job Simlation
+
 A Data Visualisation job simulation project to answer the organisation's business requirements.
 
 In this project, I have : 
